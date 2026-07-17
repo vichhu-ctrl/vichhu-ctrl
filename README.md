@@ -5,6 +5,11 @@
      if it ever changes.
 ============================================ -->
 <div align="center">
+<p align="center">
+<p align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Welcome%20To%20My%20GITHUB%20Profile&fontColor=ffffff&fontSize=45&animation=fadeIn&color=0:0A192F,50:0F4C81,100:3B82F6" width="100%">
+</p></p></p>
 
 <!-- Animated typing banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Vishnu+%F0%9F%91%8B;Aspiring+Software+Developer;QA+Engineer+%7C+Web+Designer;+BCA+Graduate+%7C+NCC+%20C%20+Certificate+Holder" alt="Typing SVG" />
