@@ -7,12 +7,12 @@
 <div align="center">
 
 <!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Vishnu+Dasari+%F0%9F%91%8B;Aspiring+Software+Developer;QA+Engineer+%7C+Web+Designer;+BCA+Graduate+%7C+NCC+%27C%27+Certificate+Holder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Vishnu+%F0%9F%91%8B;Aspiring+Software+Developer;QA+Engineer+%7C+Web+Designer;+BCA+Graduate+%7C+NCC+%20C%20+Certificate+Holder" alt="Typing SVG" />
 
 <br/>
 
 ### 🚀 Software Developer | QA Engineer | Web Designer
-📍 Austin Town, Bangalore, India
+📍  Bangalore, India
 
 <a href="https://port-folio-rose-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:vichhuqaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
