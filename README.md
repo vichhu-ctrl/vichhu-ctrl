@@ -4,11 +4,10 @@
      GitHub username wherever it appears below
      if it ever changes.
 ============================================ -->
-
 <div align="center">
 
 <!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Vishnu+Dasari+%F0%9F%91%8B;Aspiring+Software+Developer;QA+Engineer+%7C+Web+Designer;BCA+Graduate+%7C+NCC+%27C%27+Certificate+Holder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Vishnu+Dasari+%F0%9F%91%8B;Aspiring+Software+Developer;QA+Engineer+%7C+Web+Designer;%20BCA+Graduate+%7C+NCC+%27C%27+Certificate+Holder" alt="Typing SVG" />
 
 <br/>
 
