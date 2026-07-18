@@ -23,7 +23,9 @@
 <a href="mailto:vichhuqaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vishnu-dasari-5a5014287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/ekalavya.016"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1NYLx_txLtw8Wku_4kCXVBY4Aop2EDbEb/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1pc3nRDdnCkSzp-ggBmqsgx5Rl_aJhOCq/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 
 </div>
 
